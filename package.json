@@ -1,0 +1,11 @@
+{
+  "name": "chatbot141217",
+  "version": "1.0.0",
+  "description": "Chatbot test 14/12/2017",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Haugland",
+  "license": "ISC"
+}
