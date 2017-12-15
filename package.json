@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Johan Haugland",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "dotenv": "^4.0.0",
+    "restify": "^6.3.4"
+  }
 }
